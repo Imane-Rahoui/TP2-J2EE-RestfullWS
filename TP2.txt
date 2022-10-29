@@ -1,0 +1,13 @@
+http://localhost:8082/swagger-ui/index.html
+
+Swagger V1 ET 2 
+V3 : Open APi
+download file if u want : /v3/api-docs 
+	- end points and input and output
+
+import by url : http://localhost:8082/v3/api-docs
+
+
+spring data rest : c controlleur genere automatically
+
+db wlaw endna 2 restfull services
